@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 """
-@version: v1.0
+@version: v2.0
 @author: xag
 @license: Apache Licence
 @contact: xinganguo@gmail.com
